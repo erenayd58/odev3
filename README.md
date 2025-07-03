@@ -3,7 +3,7 @@ Bu proje, YOLOv5s modeli kullanarak görsellerdeki **STOP trafik işaretlerini**
 
 git clone https://github.com/<erenayd58>/odev3.git
 
-cd stop-sign-detection
+cd odev3
 
 
 pip install -r requirements.txt
