@@ -7,7 +7,7 @@ Bu proje, YOLOv5s modeli kullanarak görsellerdeki **STOP trafik işaretlerini**
 
 ### 1. Repoyu klonla
 
-git clone https://github.com/<erenayd58>/stop-sign-detection.git
+git clone https://github.com/<erenayd58>/odev3.git
 cd stop-sign-detection
 
 
